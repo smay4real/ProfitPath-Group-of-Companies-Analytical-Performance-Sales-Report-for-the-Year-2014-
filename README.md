@@ -47,11 +47,20 @@ Pinpoint top 6 ship cities and top 5 cities by revenue.
 
 4. Methodology
 
-Data Cleaning: Remove duplicates, correct errors (e.g., “Shipping Fee Error” entries).
+Data Cleaning: 
+
+Remove duplicates, correct errors (e.g., “Shipping Fee Error” entries).
+
 Pre-analysis Splitting:
-Category 1 (Independent Values): Customer, Region, Salesperson, Product Category, City.
-Category 2 (Dependent Values): Revenue, Quantity, Transaction Amount.
-Potential Analysis Question:
+
+Category 1 (Independent Values):
+Customer, Region, Salesperson, Product Category, City.
+
+Category 2 (Dependent Values): 
+Revenue, Quantity, Transaction Amount.
+
+
+**Potential Analysis Question:**
 
 **Sales Trends**
 How did monthly sales revenue fluctuate throughout 2014?
