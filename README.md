@@ -23,7 +23,9 @@ The cities that serve as revenue hubs.
 In essence, this dataset provides the foundation for strategic decision-making, enabling management to identify strengths, weaknesses, and opportunities for growth in the coming year.
 
 Data Story:
+
 Every dataset tells a story, and the 2014 sales records are no exception. Behind thousands of transactions lie patterns of customer loyalty, regional strengths, and product preferences. By analyzing this data, I uncover not just numbers, but the narrative of how the business grew, where it thrived, and where opportunities remain untapped.
+
 
 2. What Defines the Success of the Report?
 
@@ -36,7 +38,9 @@ Highlighting sales reps who drive revenue.
 Revealing product categories that outperform others.
 Spotting cities with untapped potential.
 
+
 3. Objectives
+
 
 Track sales trends across the year.
 Rank top 10 customers by revenue.
@@ -44,6 +48,7 @@ Compare sales by representative and region.
 Categorize transactions by amount to detect high-value deals.
 Break down sales by product category.
 Pinpoint top 6 ship cities and top 5 cities by revenue.
+
 
 4. Methodology
 
@@ -63,6 +68,7 @@ Revenue, Quantity, Transaction Amount.
 **Potential Analysis Question:**
 
 **Sales Trends**
+
 How did monthly sales revenue fluctuate throughout 2014?
 Were there seasonal peaks (e.g., holidays, end-of-quarter surges)?
 Which quarter contributed the highest share of annual revenue?
@@ -91,6 +97,7 @@ OBSERVATION
 — The chart creates a natural ranking but the gaps aren’t huge, suggesting a tight competitive field across ship cities.
 
 PRE-INSIGHT:
+
 — The close numbers between Portland and Miami hint at similar levels of operational efficiency or market demand.
 — New York’s commanding lead may reflect better infrastructure, market penetration, or brand visibility.
 — Memphis and Milwaukee performing decently suggests potential for scaling operations in less saturated markets.
@@ -121,6 +128,7 @@ Focus should be place on high earning clients like Company D, H and BB with dedi
 Company A, F and I needs to enhance their marketing strategies and customer engagement for better outcome.
 There is need to set revenue goals target and monitor progress monthly for company K, C, J, Z as they all performed poorly by generating less than $30,000.
 Press enter or click to view image in full size
+
 
 **Sales Performance By Sales Rep**
 
@@ -311,27 +319,35 @@ Company D alone contributed $67,180.50, making it the highest-grossing customer.
 1. Deepen Engagement in High-Performing Cities
 New York, Portland, and Miami are top revenue generators.
 Recommendation: Launch city-specific loyalty programs, targeted promotions, and premium delivery options to retain and grow these markets.
+
 2. Replicate Nancy’s Sales Strategy
 Nancy outperformed all other reps by a wide margin.
 Recommendation: Analyze her customer interactions, product focus, and territory management. Use findings to train other reps and standardize best practices.
+
 3. Expand in Underperforming Regions
 North region has high transaction volume but lower revenue per deal.
 Recommendation: Introduce bundled offers and upsell strategies to increase average transaction value in North and South regions.
+
 4. Prioritize Beverages for Growth
 Beverages lead all product categories in revenue.
 Recommendation: Expand beverage offerings, introduce seasonal variants, and bundle with complementary products like baked goods or dairy.
+
 5. Align Marketing with Seasonal Peaks
 June and December show revenue spikes.
 Recommendation: Schedule major campaigns, product launches, and discounts around these months to maximize impact.
+
 6. Target High-Value Transaction Segments
 Though most transactions are under $1,000, a few exceed $6,000.
 Recommendation: Identify customers and products linked to these deals. Create a premium tier strategy with exclusive benefits.
+
 7. Strengthen Relationships with Top Customers
 Company D, H, and BB are consistent top spenders.
 Recommendation: Assign dedicated account managers, offer early access to new products, and gather feedback to improve retention.
+
 8. Optimize Shipping in Key Cities
 New York and Portland are top ship cities.
 Recommendation: Review logistics efficiency, shipping costs, and delivery times. Consider partnerships or regional hubs to streamline operations.
+
 
 **Conclusion Note:**
 
