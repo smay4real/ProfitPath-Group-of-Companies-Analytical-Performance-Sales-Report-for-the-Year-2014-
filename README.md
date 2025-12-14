@@ -1,6 +1,7 @@
 # ProfitPath-Group-of-Companies-Analytical-Performance-Sales-Report-for-the-Year-2014-
 
 Introduction
+
 <img width="860" height="401" alt="ProfitPath_Dashboard" src="https://github.com/user-attachments/assets/6abb5448-f9b6-49f3-8528-e9a08411cec4" />
 
 
