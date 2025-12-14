@@ -1,0 +1,2 @@
+# ProfitPath-Group-of-Companies-Analytical-Performance-Sales-Report-for-the-Year-2014-
+Every dataset tells a story, and the 2014 sales records are no exception. Behind thousands of transactions lie patterns of customer loyalty, regional strengths, and product preferences. By analyzing this data, I uncover not just numbers, but the narrative of how the business grew, where it thrived, and where opportunities remain untapped.
